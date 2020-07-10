@@ -1,4 +1,4 @@
-### Hi there 👋 I am Amber Bhanarkar, a final year under-graduate from Indian Institute of Information Technology, Nagpur. I am a programmer and a researcher and always ready to learn new stuff.
+### Hi there 👋 I am Amber Bhanarkar, a final year under-graduate from Indian Institute of Information Technology, Nagpur. I am a programmer and a researcher and I am always ready to learn new stuff.
 
 <!--
 **amberbhanarkar/amberbhanarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
